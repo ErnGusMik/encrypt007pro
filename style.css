@@ -2,6 +2,7 @@ body {
   background-color: black;
   color: white;
   font-size: 10px;
+  font-family: sans-serif;
 }
 .landing {
   background-image: url("https://s27389.pcdn.co/wp-content/uploads/2020/05/network-security-in-world-of-encryption.jpeg");
