@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 10px;
+}
+.landing {
+  background-image: url("https://s27389.pcdn.co/wp-content/uploads/2020/05/network-security-in-world-of-encryption.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "encrypt007pro",
+  "version": "0.1.0",
+  "description": "This is a Pro version of the Encrypt007 on Glitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ErnGusMik",
+  "license": "ISC"
+}
